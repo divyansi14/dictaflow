@@ -1,0 +1,15 @@
+I am building a voice dictation tool that pastes clean text into any application.
+The meeting notes should be ready by Friday afternoon.
+Please send the report to the whole team before the review starts.
+We use faster-whisper with int eight quantization to keep latency low.
+Voice activity detection removes silence before the model sees the audio.
+The pyannote pipeline clusters speaker embeddings to label who spoke when.
+Can you check whether the deployment finished without any errors.
+I will push the changes to GitHub and open a pull request tonight.
+Word error rate counts substitutions, deletions, and insertions against the reference.
+The model runs on the CPU, so smaller sizes feel much faster.
+Let us schedule the review for Thursday morning instead of Wednesday.
+She trained a deep learning model to predict drug target binding affinity.
+Latency is the time between releasing the key and seeing the text appear.
+Remember to update the readme with the benchmark results and a demo.
+Thanks for the update, I will look into it first thing tomorrow.

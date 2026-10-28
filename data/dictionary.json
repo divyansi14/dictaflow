@@ -1,0 +1,11 @@
+{
+  "words": ["faster-whisper", "Silero", "pyannote", "Whisper", "VS Code"],
+  "snippets": {
+    "my email": "your.name@example.com",
+    "my github": "https://github.com/your-username"
+  },
+  "replacements": {
+    "vs code": "VS Code",
+    "git hub": "GitHub"
+  }
+}
