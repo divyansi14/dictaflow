@@ -1,4 +1,4 @@
-# Benchmark (2026-10-28, 15 clips, CPU int8)
+# Benchmark (15 clips, CPU int8)
 
 | Model | WER raw % | WER +rules % | WER +LLM % | Mean RTF | Mean ASR s | Mean LLM s |
 |---|---|---|---|---|---|---|
